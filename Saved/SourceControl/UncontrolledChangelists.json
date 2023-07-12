@@ -1,0 +1,26 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"X:/GitHub/UnrealEngine/GamePlay/Content/PlayerMovement/Animations/ABP_Character.uasset",
+				"X:/GitHub/UnrealEngine/GamePlay/Content/PlayerMovement/Character/Blueprint/BP_C_Character.uasset",
+				"X:/GitHub/UnrealEngine/GamePlay/Content/PlayerMovement/Animations/BS_BlendSpace.uasset",
+				"X:/GitHub/UnrealEngine/GamePlay/Content/PlayerMovement/Animations/ThirdPersonIdle.uasset",
+				"X:/GitHub/UnrealEngine/GamePlay/Content/PlayerMovement/Animations/ThirdPersonRun.uasset",
+				"X:/GitHub/UnrealEngine/GamePlay/Content/PlayerMovement/Animations/ThirdPersonWalk.uasset",
+				"X:/GitHub/UnrealEngine/GamePlay/Content/PlayerMovement/Animations/ThirdPerson_Jump.uasset",
+				"X:/GitHub/UnrealEngine/GamePlay/Content/PlayerMovement/Animations/ThirdPersonJump_End.uasset",
+				"X:/GitHub/UnrealEngine/GamePlay/Content/PlayerMovement/Animations/ThirdPersonJump_Loop.uasset",
+				"X:/GitHub/UnrealEngine/GamePlay/Content/PlayerMovement/Animations/ThirdPersonJump_Start.uasset",
+				"X:/GitHub/UnrealEngine/GamePlay/Content/PlayerMovement/Character/Material/MI_C_Body_Female.uasset",
+				"X:/GitHub/UnrealEngine/GamePlay/Content/PlayerMovement/Map/Main.umap",
+				"X:/GitHub/UnrealEngine/GamePlay/Content/PlayerMovement/Material/Material/Character/M_C_Body.uasset",
+				"X:/GitHub/UnrealEngine/GamePlay/Content/PlayerMovement/Character/Material/MI_C_UE4Man_ChestLogo.uasset",
+				"C:/Program Files/Epic Games/UE_5.2/Engine/Content/BasicShapes/BasicShapeMaterial.uasset"
+			]
+		}
+	]
+}
